@@ -10,7 +10,7 @@
 
  ## 
  
-<div style="display: inline_block"><br>
+
  
  <p align="left">
   <a href="https://github.com/antisocialedin">
@@ -20,6 +20,7 @@
  </a>
 </p>
  
+<div style="display: inline_block"><br>
   ## ⚡ Tech Stack
   <img align="center" alt="Edin-Js" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -40,7 +41,7 @@
   <img align="center" alt="Edin-bootstrap" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg>
  
-   ##💻 Tools
+   ## 💻 Tools
   <img align="center" alt="Edin-linux" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg>
   <img align="center" alt="Edin-vim" height="30" width="40" 

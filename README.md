@@ -1,15 +1,15 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
   
-  ### Olá 👋, Meu nome é Eder Filho
+  ### Hi 👋, My name is Eder Filho
 
-  -💻 Estudante de Engenharia da Computação pelo IFSP Campus Birigui (2018-2022).
+  -💻 Computer Engineering Student at IFSP Campus Birigui (2018-2022).
 
-  -📍 Resido em São Paulo/SP e Birigui/SP
+  -📍 I live in São Paulo/SP and Birigui/SP
 
-  -🔍 Em busca de novas experiências
+  -🔍 In search of new experiences
 
-  -🌱 Atualmente estou aprendendo Python 
+  -🌱 I'm currently learning Python
   
 </p>
 
@@ -56,7 +56,7 @@
 </div>
 
 
- ## 📫 Contato
+ ## 📫 Contact
  
 <div> 
   
@@ -67,7 +67,7 @@
 </div>
  
 
-ou me envie um ♥ no [e-mail](mailto:ederlopes_7@hotmail.com).
+send me ♥ on [mail](mailto:ederlopes_7@hotmail.com).
 
 ## Spotify Playing 🎧
 

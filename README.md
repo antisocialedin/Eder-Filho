@@ -54,7 +54,7 @@
 
 ou me envie um ♥ no [e-mail](mailto:ederlopes_7@hotmail.com).
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edermulekezika&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 

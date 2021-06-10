@@ -56,7 +56,7 @@ ou me envie um ♥ no [e-mail](mailto:ederlopes_7@hotmail.com).
 
 ## Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edermulekezika&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=edermulekezika&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=edermulekezika&cover_image=true&theme=novatorem)]]
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
 

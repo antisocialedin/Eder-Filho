@@ -22,7 +22,8 @@ Skills: ASSEMBLY / REACT / JS / JAVA / C / C++ / CSS
   <img align="center" alt="Edin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edin-ARCH64" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/aarch64/aarch64-original.svg>
+  <img align="center" alt="Edin-ARCH64" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon//blob/master/icons/aarch64/aarch64-original.svg>
+  <img align="center" alt="Edin-C" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg>
   <img align="center" alt="Edin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>

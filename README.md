@@ -11,17 +11,16 @@ Skills: ASSEMBLY / REACT / JS / JAVA / C / C++ / CSS
 - 🌱 Atualmente estou aprendendo Python 
 
 <p align="left">
-  <a href="https://github.com/Nathalia-Urenha">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nathalia-Urenha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
+  <a href="https://github.com/antisocialedin">
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antisocialedin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathalia-Urenha&&layout=compact&theme=dracula" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin&&layout=compact&theme=dracula" />
  </a>
 </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nath-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 

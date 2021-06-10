@@ -8,7 +8,7 @@
 
 -🌱 Atualmente estou aprendendo Python 
 
- ## ⚡ Tech Stack
+ ## 
  
 <div style="display: inline_block"><br>
  
@@ -20,6 +20,7 @@
  </a>
 </p>
  
+  ## ⚡ Tech Stack
   <img align="center" alt="Edin-Js" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edin-React" height="30" width="40" 
@@ -30,15 +31,20 @@
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg>
   <img align="center" alt="Edin-C" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg>
-  <img align="center" alt="Edin-laravel" height="30" width="40"   src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg>
-  <img align="center" alt="Edin-vim" height="30" width="40" 
-       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vim/vim-original.svg>
-  <img align="center" alt="Edin-ubuntu" height="30" width="40"        
-       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ubuntu/ubuntu-plain-wordmark.svg>
+  <img align="center" alt="Edin-C++" height="30" width="40" 
+      src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg>
+  <img align="center" alt="Edin-laravel" height="30" width="40"   
+       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg>
   <img align="center" alt="Edin-Python" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Edin-Python" height="30" width="40" 
+  <img align="center" alt="Edin-bootstrap" height="30" width="40" 
+       src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg>
+ 
+   ##💻 Tools
+  <img align="center" alt="Edin-linux" height="30" width="40" 
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg>
+  <img align="center" alt="Edin-vim" height="30" width="40" 
+       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vim/vim-original.svg>
 
 </div>
 

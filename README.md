@@ -1,5 +1,4 @@
 ### Olá 👋, Meu nome é Eder Filho
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 -💻 Estudante de Engenharia da Computação pelo IFSP Campus Birigui (2018-2022).
 

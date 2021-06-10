@@ -1,16 +1,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
+  ### Olá 👋, Meu nome é Eder Filho
+
+  -💻 Estudante de Engenharia da Computação pelo IFSP Campus Birigui (2018-2022).
+
+  -📍 Resido em São Paulo/SP e Birigui/SP
+
+  -🔍 Em busca de novas experiências
+
+  -🌱 Atualmente estou aprendendo Python 
+  
 </p>
-
-### Olá 👋, Meu nome é Eder Filho
-
--💻 Estudante de Engenharia da Computação pelo IFSP Campus Birigui (2018-2022).
-
--📍 Resido em São Paulo/SP e Birigui/SP
-
--🔍 Em busca de novas experiências
-
--🌱 Atualmente estou aprendendo Python 
 
  ## 
  

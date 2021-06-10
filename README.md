@@ -19,12 +19,23 @@ Skills: ASSEMBLY / REACT / JS / JAVA / C / C++ / CSS
 </p>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edin-ARCH64" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon//blob/master/icons/aarch64/aarch64-original.svg>
-  <img align="center" alt="Edin-C" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/c/c-original.svg>
-  <img align="center" alt="Edin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Edin-Js" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edin-React" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Edin-CSS" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Edin-mysql" height="30" width="40" 
+       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg>
+  <img align="center" alt="Edin-C" height="30" width="40" 
+       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg>
+  <img align="center" alt="Edin-laravel" height="30" width="40"   src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg>
+  <img align="center" alt="Edin-vim" height="30" width="40" 
+       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vim/vim-original.svg>
+  <img align="center" alt="Edin-ubuntu" height="30" width="40"        
+       src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ubuntu/ubuntu-plain-wordmark.svg>
+  <img align="center" alt="Edin-Python" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
   

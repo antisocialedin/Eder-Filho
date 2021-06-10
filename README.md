@@ -54,6 +54,9 @@
 
 ou me envie um ♥ no [mail](mailto:ederlopes_7@hotmail.com).
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/edermulekezika?si=7a6db8fe6c794451)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
 

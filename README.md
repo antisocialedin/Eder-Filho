@@ -6,15 +6,7 @@
 
 -🔍 Em busca de novas experiências
 
-- 🌱 Atualmente estou aprendendo Python 
-
-<p align="left">
-  <a href="https://github.com/antisocialedin">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antisocialedin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
-
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin&&layout=compact&theme=dracula" />
- </a>
-</p>
+-🌱 Atualmente estou aprendendo Python 
 
  ## ⚡ Tech Stack
  
@@ -40,6 +32,14 @@
        src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg>
 
 </div>
+
+<p align="left">
+  <a href="https://github.com/antisocialedin">
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antisocialedin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
+
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin&&layout=compact&theme=dracula" />
+ </a>
+</p>
   
  ## 📫 Contato
  

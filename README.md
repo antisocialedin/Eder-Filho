@@ -11,6 +11,15 @@
  ## ⚡ Tech Stack
  
 <div style="display: inline_block"><br>
+ 
+ <p align="left">
+  <a href="https://github.com/antisocialedin">
+   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antisocialedin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
+
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin&&layout=compact&theme=dracula" />
+ </a>
+</p>
+ 
   <img align="center" alt="Edin-Js" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edin-React" height="30" width="40" 
@@ -33,15 +42,6 @@
 
 </div>
 
-<div>
-<p align="left">
-  <a href="https://github.com/antisocialedin">
-   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antisocialedin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues,contribs" />
-
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin&&layout=compact&theme=dracula" />
- </a>
-</p>
-</div>
 
  ## 📫 Contato
  

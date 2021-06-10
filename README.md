@@ -35,13 +35,8 @@ Skills: ASSEMBLY / REACT / JS / JAVA / C / C++ / CSS
   <a href="www.linkedin.com/in/eder-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5511960796829" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Nathalia-Urenha/Nathalia-Urenha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antisocialedin)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=antisocialedin&show_icons=true)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antisocialedin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eder-filho//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](eder.filho@aluno.ifsp.edu.br)  
-
-![Profile views](https://gpvc.arturio.dev/antisocialedin)  
+ 
 
 

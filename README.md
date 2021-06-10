@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=30%>
+</p>
+
 ### Olá 👋, Meu nome é Eder Filho
 
 -💻 Estudante de Engenharia da Computação pelo IFSP Campus Birigui (2018-2022).

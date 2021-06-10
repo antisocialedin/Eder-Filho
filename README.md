@@ -52,11 +52,11 @@
 </div>
  
 
-ou me envie um ♥ no [mail](mailto:ederlopes_7@hotmail.com).
+ou me envie um ♥ no [e-mail](mailto:ederlopes_7@hotmail.com).
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/edermulekezika?si=7a6db8fe6c794451)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edermulekezika&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
 

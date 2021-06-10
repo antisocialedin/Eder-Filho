@@ -67,7 +67,7 @@
 </div>
  
 
-send me ♥ on [mail](mailto:ederlopes_7@hotmail.com).
+or send me ♥ on [mail](mailto:ederlopes_7@hotmail.com).
 
 ## Spotify Playing 🎧
 

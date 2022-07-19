@@ -61,18 +61,12 @@
 <div> 
   
   <a href = "mailto: eder.filho@aluno.ifsp.edu.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/eder-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eder-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5511960796829" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
  
 
 or send me ♥ on [mail](mailto:ederlopes_7@hotmail.com).
-
-## Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edermulekezika&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=edermulekezika&redirect=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
 
 

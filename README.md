@@ -3,7 +3,7 @@
   
   ### Hi 👋, My name is Eder Filho
 
-  -💻 Computer Engineering Student at IFSP Campus Birigui (2018-2022).
+  -💻 Computer Engineering Student at IFSP Campus Birigui (2018-2023).
 
   -📍 I live in São Paulo/SP and Birigui/SP
 

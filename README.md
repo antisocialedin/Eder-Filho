@@ -5,11 +5,11 @@
 
   -💻 Computer Engineering Student at IFSP Campus Birigui (2018-2023).
 
-  -📍 I live in São Paulo/SP and Birigui/SP
+  -📍 I live in São Paulo/SP
 
   -🔍 In search of new experiences
 
-  -🌱 I'm currently learning Python
+  -🌱 I'm currently learning Python and Node.js
   
 </p>
 
